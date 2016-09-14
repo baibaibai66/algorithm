@@ -1,4 +1,4 @@
 # Summary
 
-* algorithm
+* [algorithm](searching.md)
 
