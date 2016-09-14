@@ -1,4 +1,4 @@
 # Summary
 
-* [searching](searching.md)
+* [searching](binary search.md)
 
